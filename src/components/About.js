@@ -1,4 +1,4 @@
-import react, {useEffect,useState} from "react";
+import React, {useEffect,useState} from "react";
 import sanityClient from "../client.js";
 import trees from "../trees.jpg";
 import imageUrlBuilder from "@sanity/image-url"
